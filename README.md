@@ -5,7 +5,7 @@
 
 - 📫 Feel free to contact me at **seifotefa@gmail.com**
 
-- 🔗 Check out my website [here](www.seifotefa.com)
+- 🔗 Check out my website [here](https://www.seifotefa.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
