@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Seif Otefa.</h1>
 <h3 align="center">A passionate computer science student at McMaster University!</h3>
 
-- 🌱 I’m currently learning **front-end development.**
+- 🌱 I’m currently learning **Agentic AI, AI Memory**
 
 - 📫 Feel free to contact me at **seifotefa@gmail.com**
 
